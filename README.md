@@ -1,6 +1,7 @@
+![Banner](IMAGE_URL_HERE)
 # Joel Perez
 
-Customer Success and Technical Operations professional with experience supporting SaaS platforms, app deployments, onboarding, troubleshooting, and AI/no-code solutions.
+Customer Success & Technical Operations professional with 10+ years of experience supporting SaaS platforms, onboarding customers, troubleshooting technical issues, and managing app deployments across Apple App Store and Google Play.
 
 ## Skills
 - Customer Success
