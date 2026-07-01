@@ -1,4 +1,4 @@
-![Banner](IMAGE_URL_HERE)
+![Banner](mybannerim.png)
 # Joel Perez
 
 Customer Success & Technical Operations professional with 10+ years of experience supporting SaaS platforms, onboarding customers, troubleshooting technical issues, and managing app deployments across Apple App Store and Google Play.
