@@ -8,12 +8,15 @@ Customer Success & Technical Operations professional with 10+ years of experienc
 - Technical Support
 - SaaS Onboarding
 - App Store Publishing
-- HTML/CSS
 - AI & Automation Tools
 - Client Management
+- Client retention
+- Enterprise Onboarding
 
 ## Experience
-- 10+ years supporting global customers
-- Managed enterprise accounts
-- App Store & Google Play deployments
-- Technical troubleshooting and onboarding
+- 10+ years supporting global SaaS customers
+- Managed enterprise-level client accounts
+- Led onboarding and technical support initiatives
+- Assisted with Apple App Store & Google Play deployments
+- Troubleshot app, publishing, and customer platform issues
+- Collaborated with development and product teams
